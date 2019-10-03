@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Beto",
+      "email": "beto@email.com",
+      "status": "ativo"
+    },
+    {
+      "id": 2,
+      "nome": "Renan",
+      "email": "renan@renan.com.br",
+      "status": "inativo"
+    },
+    {
+      "id": 3,
+      "nome": "Paloma",
+      "email": "paloma@paloma.com.br",
+      "status": "ativo"
+    }
+  ]
+}
